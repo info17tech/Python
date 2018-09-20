@@ -1,0 +1,6 @@
+to check whether the number is positive or negative-
+enter value of a5
+a is positive number
+enter value of a-3
+a is negative number
+
