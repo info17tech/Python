@@ -1,0 +1,33 @@
+arithmetic operations 
+>>> a=5
+>>> b=3
+>>> c=a+b
+>>> print(c)
+8
+>>> a=5
+>>> b=3
+>>> c=a-b
+>>> print(c)
+2
+>>> a=4
+>>> b=2
+>>> c=a%b
+>>> print(c)
+0
+>>> a=2.2
+>>> b=6.4
+>>> c=a*b
+>>> print(c)
+14.08
+>>> a=2.2
+>>> b=6.4
+>>> c=a/b
+>>> print(c)
+0.34375
+>>> a=2.2
+>>> b=6.4
+>>> c=a%b
+>>> print(c)
+2.2
+>>> a<b
+True
