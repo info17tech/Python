@@ -1,0 +1,10 @@
+finding the greater number-
+enter value of a3
+enter value of b4
+b is greater than a
+
+whether the number is even or odd-
+enter value of a4
+a is an even number
+enter value of a3
+a is an odd number
