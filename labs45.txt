@@ -1,0 +1,13 @@
+#using while true:
+dl315@soetcse:~/priyanka$ python3 labs45.py
+enter 0 to quit,or any other number:5
+you entered: 5
+enter 0 to quit,or any other number:1
+you entered: 1
+enter 0 to quit,or any other number:2
+you entered: 2
+enter 0 to quit,or any other number:6
+you entered: 6
+enter 0 to quit,or any other number:0
+bye..
+
