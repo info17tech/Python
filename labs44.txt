@@ -1,0 +1,14 @@
+#dice game:
+dl315@soetcse:~/priyanka$ python3 labs44.py
+'r' to roll the dice, 'q' to quit the gamer
+1
+'r' to roll the dice, 'q' to quit the gamer
+3
+'r' to roll the dice, 'q' to quit the gamer
+4
+'r' to roll the dice, 'q' to quit the gamer
+2
+'r' to roll the dice, 'q' to quit the gamer
+5
+'r' to roll the dice, 'q' to quit the gameq
+
