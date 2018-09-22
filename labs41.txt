@@ -1,0 +1,8 @@
+#to generate numbers in reverse order:
+dl315@soetcse:~/priyanka$ python3 labs41.py
+5
+4
+3
+2
+1
+
