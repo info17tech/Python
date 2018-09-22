@@ -1,0 +1,11 @@
+to find the greatest number:
+value of a4
+value of b3
+value of c5
+c is greater
+
+value of a6
+value of b3
+value of c4
+a is greater
+
