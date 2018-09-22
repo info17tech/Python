@@ -1,0 +1,12 @@
+to generate random numbers:
+dl315@soetcse:~/priyanka$ python3 labs43.py
+3 
+dl315@soetcse:~/priyanka$ python3 labs43.py
+4
+dl315@soetcse:~/priyanka$ python3 labs43.py
+2
+dl315@soetcse:~/priyanka$ python3 labs43.py
+6
+dl315@soetcse:~/priyanka$ python3 labs43.py
+1
+
