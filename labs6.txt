@@ -1,0 +1,47 @@
+enter r or qr
+dice number and the number you are on is 6 6
+enter r or qr
+dice number and the number you are on is 1 7
+enter r or qr
+dice number and the number you are on is 1 8
+u have got a ladder
+enter r or qr
+dice number and the number you are on is 5 42
+enter r or qr
+dice number and the number you are on is 5 47
+enter r or qr
+dice number and the number you are on is 5 52
+u have got a ladder
+enter r or qr
+dice number and the number you are on is 3 84
+enter r or qr
+dice number and the number you are on is 1 85
+enter r or qr
+dice number and the number you are on is 3 88
+enter r or qr
+dice number and the number you are on is 6 94
+enter r or qr
+dice number and the number you are on is 3 97
+enter r or qr
+dice number and the number you are on is 4 101
+should get valid number to reach 100
+enter r or qr
+dice number and the number you are on is 2 99
+enter r or qr
+dice number and the number you are on is 5 104
+should get valid number to reach 100
+enter r or qr
+dice number and the number you are on is 2 101
+should get valid number to reach 100
+enter r or qr
+dice number and the number you are on is 3 102
+should get valid number to reach 100
+enter r or qr
+dice number and the number you are on is 6 105
+should get valid number to reach 100
+enter r or qr
+dice number and the number you are on is 5 104
+should get valid number to reach 100
+enter r or qr
+dice number and the number you are on is 1 100
+congrats, u r the winner
