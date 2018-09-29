@@ -1,0 +1,11 @@
+enter number A:40
+enter number B:60
+addition is: 100
+subtraction is: -20
+
+#using parameters-
+enter number A:50
+enter number B:25
+addition is: 75
+subtraction is: 25
+
