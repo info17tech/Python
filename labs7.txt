@@ -1,0 +1,7 @@
+dl315@soetcse:~/priyanka$ python3 labs7.py
+30
+30
+-10
+200
+10
+
