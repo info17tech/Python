@@ -1,0 +1,11 @@
+dl315@soetcse:~/priyanka$ python3 labs72.py
+#list-
+apple
+orange
+apple
+mango
+grapes
+
+#dictionary-
+priyanka
+
