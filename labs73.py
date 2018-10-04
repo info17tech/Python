@@ -19,4 +19,5 @@ while True:
 	elif((b=='scissor') and (c=='paper')):
 		print("u win")
 	else:
+		print("invalid key")
 		break
