@@ -1,0 +1,32 @@
+
+enter your choice rock/paper/scissor:rock
+you chose: rock computer chose: paper
+u lose
+my score= 0 computer score= 1
+enter your choice rock/paper/scissor:scissor
+you chose: scissor computer chose: scissor
+draw
+my score= 0 computer score= 1
+enter your choice rock/paper/scissor:paper
+you chose: paper computer chose: scissor
+u lose
+my score= 0 computer score= 2
+enter your choice rock/paper/scissor:rock
+you chose: rock computer chose: paper
+u lose
+my score= 0 computer score= 3
+enter your choice rock/paper/scissor:paper
+you chose: paper computer chose: scissor
+u lose
+my score= 0 computer score= 4
+enter your choice rock/paper/scissor:scissor
+you chose: scissor computer chose: paper
+u win
+my score= 1 computer score= 4
+enter your choice rock/paper/scissor:paper
+you chose: paper computer chose: scissor
+u lose
+enter your choice rock/paper/scissor:rok
+you chose: rok computer chose: rock
+invalid key
+
