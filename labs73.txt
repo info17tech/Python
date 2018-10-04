@@ -1,0 +1,12 @@
+rock, paper, scissor game:
+
+enter your choice rock/paper/scissor:rock
+you chose: rock computer chose: scissor
+u win
+enter your choice rock/paper/scissor:scissor
+you chose: scissor computer chose: scissor
+draw
+enter your choice rock/paper/scissor:rock
+you chose: rock computer chose: paper
+u lose
+
