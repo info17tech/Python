@@ -1,3 +1,4 @@
+#positions of playboard
 a=[1,2,3,4,5,6,7,8,9]
 def printboard():
 	print("-----------")
@@ -25,6 +26,7 @@ while True:
 			playeroneturn = not playeroneturn
 
 		#to check winning condition
+		#row check
 		for i in (0,3,6):
 			if(a[i]==a[i+1] and a[i]==a[i+2]):
 				if a[i]=='X':
@@ -32,6 +34,7 @@ while True:
 				else:
 					print("player 2 wins")
 					exit()
+		#coloumn check			
 		for i in range(3):
 			if(a[i]==a[i+3] and a[i]==a[i+6]):
 				if a[i]=='X':
@@ -39,13 +42,28 @@ while True:
 				else:
 					print("player 2 wins")
 					exit()
-		
-
+		        
+			#if it is a tie
 			for i in range(1,10):
-				if():
+				if(not a):
+					print("list is empty")
 					print("draw")
-			print("player 1 wins")
-		else:
-			print("player 2 wins")
-	else:
-		continue
+			
+			#diagonal check
+			if(a[0]==a[4] and a[0]==a[8]):
+				print("player 1 wins")
+			else:
+				print("player 2 wins")
+				exit()
+			if(a[2]==a[4] and a[2]==a[6])
+				print("player 1 wins")
+			else:
+				print("player 2 wins")
+				exit()
+			
+			if(c not in a):
+				print("invalid")
+				continue
+			else:
+				print("draw")
+				exit()
