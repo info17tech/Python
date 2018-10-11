@@ -1,0 +1,3 @@
+dl315@soetcse:~/priyanka$ python3 gmail.py
+mail is sent^.^
+
