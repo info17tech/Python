@@ -6,7 +6,7 @@ with sr.AudioFile(AUDIO_FILE) as source:
 	#reads the audio file. Here we use record instead of listen
 	audio=r.record(source)
 try:
-	print("the audio fil cntains:" * r.recognizer_google(audio))
+	print("the audio fil cntains:" + r.recognizer_google(audio))
 except sr.unknownvalueError:
 	print("google speech recognition could not understand audio")
 except sr.RequestError as e:
